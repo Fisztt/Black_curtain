@@ -1,0 +1,7 @@
+.Cim {
+  color: white;
+  font-size: 32px;
+}
+.container {
+  min-height: calc(100vh - 230px);
+}

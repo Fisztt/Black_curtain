@@ -1,0 +1,23 @@
+.fbox {
+  width: 100%;
+  background-color: black;
+  height: 120px;
+}
+.pfooter {
+  color: white;
+  font-size: 25px;
+  margin-top: 35px;
+}
+.f_ikonok {
+  color: white;
+  scale: 150%;
+  margin-top: 15px;
+}
+.fnav {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
