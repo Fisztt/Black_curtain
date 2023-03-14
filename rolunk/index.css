@@ -1,7 +1,24 @@
 .Cim {
   color: white;
   font-size: 32px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  text-decoration: underline;
 }
+
 .container {
   min-height: calc(100vh - 230px);
+  background-color: rgba(0, 0, 0, 0.5);
+  margin-bottom: 50px;
+}
+.Szoveg {
+  font-size: 20px;
+  font-weight: bolder;
+  color: aqua;
+  margin-left: 300px;
+  margin-right: 300px;
 }
